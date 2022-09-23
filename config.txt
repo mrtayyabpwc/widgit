@@ -1,1 +1,2 @@
 adding first file in config.txt
+adding some initial configuration
